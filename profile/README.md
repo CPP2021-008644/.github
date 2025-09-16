@@ -80,6 +80,21 @@ The work is structured in three streams—**DMSS**, **Pricing/Risk/Microstructur
     </td>
   </tr>
 
+
+
+
+<tr>
+  <td align="center" style="vertical-align:top; border:0; padding:8px 0;">
+    <a href="https://github.com/CPP2021-008644/uglyData">
+      <img src="https://afs-services.com/wp-content/uploads/2025/09/uglydata.png" width="28" alt="uglyData" />
+    </a>
+  </td>
+  <td style="vertical-align:top; word-break:break-word; border:0; padding:8px 0;">
+    <b><a href="https://github.com/CPP2021-008644/uglyData">uglyData</a></b>: Backend for market data catalogs and time series (FastAPI + PostgreSQL/Timescale + S3). WebSocket streaming, S3 facade, and psycopg wrappers.<br>
+    <a href="https://github.com/CPP2021-008644/uglyData"><img alt="repo badge" src="https://img.shields.io/badge/repo-CPP2021--008644%2FuglyData-181717?logo=github&labelColor=555"></a>
+    <a href="https://github.com/CPP2021-008644/uglyData"><img alt="license" src="https://img.shields.io/github/license/CPP2021-008644/uglyData"></a>
+  </td>
+</tr>
   <tr>
     <td align="center" style="vertical-align:top; border:0; padding:8px 0;">
       <a href="https://github.com/CPP2021-008644/MarketMicrostructure">
@@ -92,6 +107,8 @@ The work is structured in three streams—**DMSS**, **Pricing/Risk/Microstructur
       <a href="https://github.com/CPP2021-008644/MarketMicrostructure"><img alt="license" src="https://img.shields.io/github/license/CPP2021-008644/MarketMicrostructure"></a>
     </td>
   </tr>
+
+  
 </table>
 
 ---
